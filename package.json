@@ -34,7 +34,7 @@
 		"string"
 	],
 	"dependencies": {
-		"slice-ansi": "github:TiagoDanin-Forks/slice-ansi#ParserAllAnsi",
+		"slice-ansi": "^3.0.0",
 		"string-width": "^4.1.0"
 	},
 	"devDependencies": {
